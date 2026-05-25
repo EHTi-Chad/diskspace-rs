@@ -1,0 +1,1 @@
+/home/cjameson/Projects/diskspace-rs/target/release/diskspace: /home/cjameson/Projects/diskspace-rs/build.rs /home/cjameson/Projects/diskspace-rs/ehti.ico /home/cjameson/Projects/diskspace-rs/src/main.rs
